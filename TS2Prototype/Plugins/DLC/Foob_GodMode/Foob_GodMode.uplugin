@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "0.2.5",
+	"VersionName": "0.5.3",
 	"FriendlyName": "Foob_GodMode",
 	"Description": "This plugin holds some uncooked files of the TSW God Mode mod for you to be able to use the mod's \"Modder's Log\" through function calls on the \"BP_GodMode\". You can start by checking out the \"LoggingExample\" folder's \"BP_LoggingExample\"'s Blueprint code. (Also I included the uncooked Theme DataTables because why not, feel free to mess with them)",
 	"Category": "Foobian.Mods",
